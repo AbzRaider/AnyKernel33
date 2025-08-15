@@ -4,8 +4,8 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=LineagePlus Kernel for Xiaomi MT6893 Series
-do.devicecheck=1
+kernel.string=LineagePlus Kernel for Realme MT6785 Series
+do.devicecheck=0
 do.modules=0
 do.systemless=1
 do.cleanup=1
